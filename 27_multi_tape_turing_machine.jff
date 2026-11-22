@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<structure>
+<type>mtm</type><automaton><state id="0" name="qCopy"><x>100</x><y>160</y><initial/></state><state id="1" name="qDone"><x>350</x><y>160</y><final/></state><transition><from>0</from><to>0</to><read>a,∆</read><write>a,a</write><move>R,R</move></transition><transition><from>0</from><to>0</to><read>b,∆</read><write>b,b</write><move>R,R</move></transition><transition><from>0</from><to>1</to><read>∆,∆</read><write>∆,∆</write><move>S,S</move></transition></automaton>
+</structure>

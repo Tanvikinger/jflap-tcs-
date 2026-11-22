@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><structure><type>grammar</type><production><left>S</left><right>XaXaX</right></production><production><left>X</left><right></right></production><production><left>X</left><right>aX</right></production><production><left>X</left><right>bX</right></production></structure>
